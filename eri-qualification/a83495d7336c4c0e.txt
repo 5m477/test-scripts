@@ -1,0 +1,2 @@
+Synthetic ERI publisher qualification file. Safe to delete.
+marker: a83495d7336c4c0eac083399bc1f9bc5
